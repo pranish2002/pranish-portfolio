@@ -67,15 +67,15 @@ ___
 <!-- Tables -->
 
 |   Name	|     Email     |
-|---------------------------|
+|-----------|---------------|
 | John Doe	| john@gmail.com|
 | Jane Doe	| jane@gmail.com|
 
 <!-- Task List -->
 
-*[x] Task 1
-*[x] Task 2
-*[ ] Task 3
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
 
 # portfolio website
 
